@@ -1,10 +1,10 @@
-## Hi there 👋
+`## Hi there 👋
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Tom984-vn.Tom984-vn)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?lines=Hello,+There!+👋;Welcome+to+my+GitHub+profile+🤗&center=true&size=20">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome+to+my+GitHub+profile+🤗&center=true&size=20">
   </a>
 </h1>
 
