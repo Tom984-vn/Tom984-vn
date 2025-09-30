@@ -4,11 +4,10 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Welcome to my GitHub profile 🤗&center=true&size=20">
+    <img src="https://readme-typing-svg.demolab.com?lines=Hello,+There!+👋;Welcome+to+my+GitHub+profile+🤗&center=true&size=20">
   </a>
 </h1>
 
----
 
 ### 👨‍💻 About Me 
 - 🎓 Undergraduate @ Hanoi University of Science and Technology  
