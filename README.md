@@ -19,14 +19,13 @@
 
 ---
 
-### 🌍 Connect with Me
-[![LinkedIn](images/linkedin.svg)](https://www.linkedin.com/in/th%E1%BA%BF-s%C6%A1n-%C4%91%E1%BA%B7ng-th%C3%A2n-817723332/)  
-[![HackerRank](images/hackerrank.png)](https://www.hackerrank.com/zumrudu_anka)  
-[![Stack Overflow](images/stackoverflow.svg)](https://stackoverflow.com/users/12578260/osman-durdag)  
-[![Instagram](images/instagram.svg)](https://www.instagram.com/osman__durdag/)  
 
----
-
+<h5 align="center">
+  <code><a href="https://www.linkedin.com/in/th%E1%BA%BF-s%C6%A1n-%C4%91%E1%BA%B7ng-th%C3%A2n-817723332/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
+  <code><a href="" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+</h5>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
